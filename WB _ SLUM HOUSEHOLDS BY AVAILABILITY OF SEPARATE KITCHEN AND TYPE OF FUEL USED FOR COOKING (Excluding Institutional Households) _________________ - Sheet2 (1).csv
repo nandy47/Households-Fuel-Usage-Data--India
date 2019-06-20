@@ -1,0 +1,994 @@
+Area Name,Availability of separate kitchen ,Fire-wood,Crop residue,Cowdung cake,"Coal,Lignite,Charcoal",Kerosene,LPG/PNG,Electricity,Biogas,Any other,No cooking,Total number of households
+STATE - WEST BENGAL,Total,262151,35494,35933,343581,147162,539916,1095,6417,13730,7840,1393319
+STATE - WEST BENGAL,Cooking inside house:,235262,29424,31884,320718,143150,534423,1041,6276,11708,0,1313886
+STATE - WEST BENGAL,Has Kitchen,114533,15396,13000,113693,53928,448905,635,5089,3932,0,769111
+STATE - WEST BENGAL,Does not have kitchen,120729,14028,18884,207025,89222,85518,406,1187,7776,0,544775
+STATE - WEST BENGAL,Cooking outside house:,26889,6070,4049,22863,4012,5493,54,141,2022,0,71593
+STATE - WEST BENGAL,Has Kitchen,14588,3262,2474,10009,1694,3738,32,107,820,0,36724
+STATE - WEST BENGAL,Does not have kitchen,12301,2808,1575,12854,2318,1755,22,34,1202,0,34869
+STATE - WEST BENGAL,No Cooking,0,0,0,0,0,0,0,0,0,7840,7840
+Darjiling (M),Total,89,24,1,3,326,3821,0,6,0,15,4285
+Darjiling (M),Cooking inside house:,72,24,1,2,317,3690,0,6,0,0,4112
+Darjiling (M),Has Kitchen,51,22,0,1,207,3168,0,4,0,0,3453
+Darjiling (M),Does not have kitchen,21,2,1,1,110,522,0,2,0,0,659
+Darjiling (M),Cooking outside house:,17,0,0,1,9,131,0,0,0,0,158
+Darjiling (M),Has Kitchen,16,0,0,1,7,129,0,0,0,0,153
+Darjiling (M),Does not have kitchen,1,0,0,0,2,2,0,0,0,0,5
+Darjiling (M),No Cooking,0,0,0,0,0,0,0,0,0,15,15
+Kalimpong (M),Total,15,24,0,1,58,702,0,0,0,6,806
+Kalimpong (M),Cooking inside house:,15,24,0,1,58,698,0,0,0,0,796
+Kalimpong (M),Has Kitchen,8,24,0,0,24,558,0,0,0,0,614
+Kalimpong (M),Does not have kitchen,7,0,0,1,34,140,0,0,0,0,182
+Kalimpong (M),Cooking outside house:,0,0,0,0,0,4,0,0,0,0,4
+Kalimpong (M),Has Kitchen,0,0,0,0,0,4,0,0,0,0,4
+Kalimpong (M),Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+Kalimpong (M),No Cooking,0,0,0,0,0,0,0,0,0,6,6
+Mirik (NA),Total,429,1,1,2,29,628,0,3,1,13,1107
+Mirik (NA),Cooking inside house:,108,1,0,0,26,423,0,2,1,0,561
+Mirik (NA),Has Kitchen,82,1,0,0,7,393,0,2,0,0,485
+Mirik (NA),Does not have kitchen,26,0,0,0,19,30,0,0,1,0,76
+Mirik (NA),Cooking outside house:,321,0,1,2,3,205,0,1,0,0,533
+Mirik (NA),Has Kitchen,312,0,1,2,2,202,0,1,0,0,520
+Mirik (NA),Does not have kitchen,9,0,0,0,1,3,0,0,0,0,13
+Mirik (NA),No Cooking,0,0,0,0,0,0,0,0,0,13,13
+Kurseong (M),Total,91,2,2,20,102,1195,0,0,1,8,1421
+Kurseong (M),Cooking inside house:,73,2,2,20,98,1156,0,0,1,0,1352
+Kurseong (M),Has Kitchen,69,2,2,14,58,1093,0,0,1,0,1239
+Kurseong (M),Does not have kitchen,4,0,0,6,40,63,0,0,0,0,113
+Kurseong (M),Cooking outside house:,18,0,0,0,4,39,0,0,0,0,61
+Kurseong (M),Has Kitchen,16,0,0,0,4,34,0,0,0,0,54
+Kurseong (M),Does not have kitchen,2,0,0,0,0,5,0,0,0,0,7
+Kurseong (M),No Cooking,0,0,0,0,0,0,0,0,0,8,8
+Siliguri (M Corp.) (Part),Total,6241,246,32,700,672,6352,0,13,25,88,14369
+Siliguri (M Corp.) (Part),Cooking inside house:,5789,231,29,659,652,6248,0,12,25,0,13645
+Siliguri (M Corp.) (Part),Has Kitchen,1736,102,9,292,215,4746,0,9,7,0,7116
+Siliguri (M Corp.) (Part),Does not have kitchen,4053,129,20,367,437,1502,0,3,18,0,6529
+Siliguri (M Corp.) (Part),Cooking outside house:,452,15,3,41,20,104,0,1,0,0,636
+Siliguri (M Corp.) (Part),Has Kitchen,148,11,2,19,7,53,0,1,0,0,241
+Siliguri (M Corp.) (Part),Does not have kitchen,304,4,1,22,13,51,0,0,0,0,395
+Siliguri (M Corp.) (Part),No Cooking,0,0,0,0,0,0,0,0,0,88,88
+Siliguri (M Corp.) (Part),Total,3988,121,52,156,775,6763,4,296,20,38,12213
+Siliguri (M Corp.) (Part),Cooking inside house:,3771,108,36,153,762,6635,4,296,20,0,11785
+Siliguri (M Corp.) (Part),Has Kitchen,2019,68,18,110,358,5667,2,239,2,0,8483
+Siliguri (M Corp.) (Part),Does not have kitchen,1752,40,18,43,404,968,2,57,18,0,3302
+Siliguri (M Corp.) (Part),Cooking outside house:,217,13,16,3,13,128,0,0,0,0,390
+Siliguri (M Corp.) (Part),Has Kitchen,170,7,8,2,7,117,0,0,0,0,311
+Siliguri (M Corp.) (Part),Does not have kitchen,47,6,8,1,6,11,0,0,0,0,79
+Siliguri (M Corp.) (Part),No Cooking,0,0,0,0,0,0,0,0,0,38,38
+Mal (M),Total,1408,43,8,16,126,1567,2,21,1,11,3203
+Mal (M),Cooking inside house:,1284,39,6,16,122,1548,2,17,1,0,3035
+Mal (M),Has Kitchen,643,30,1,2,52,1305,2,12,0,0,2047
+Mal (M),Does not have kitchen,641,9,5,14,70,243,0,5,1,0,988
+Mal (M),Cooking outside house:,124,4,2,0,4,19,0,4,0,0,157
+Mal (M),Has Kitchen,74,3,1,0,2,13,0,2,0,0,95
+Mal (M),Does not have kitchen,50,1,1,0,2,6,0,2,0,0,62
+Mal (M),No Cooking,0,0,0,0,0,0,0,0,0,11,11
+Jalpaiguri (M),Total,2851,75,10,34,237,2015,2,7,1,22,5254
+Jalpaiguri (M),Cooking inside house:,2657,68,8,31,223,1984,2,7,1,0,4981
+Jalpaiguri (M),Has Kitchen,1568,54,8,26,79,1816,2,6,1,0,3560
+Jalpaiguri (M),Does not have kitchen,1089,14,0,5,144,168,0,1,0,0,1421
+Jalpaiguri (M),Cooking outside house:,194,7,2,3,14,31,0,0,0,0,251
+Jalpaiguri (M),Has Kitchen,78,6,0,2,6,23,0,0,0,0,115
+Jalpaiguri (M),Does not have kitchen,116,1,2,1,8,8,0,0,0,0,136
+Jalpaiguri (M),No Cooking,0,0,0,0,0,0,0,0,0,22,22
+Alipurduar (M),Total,580,6,4,7,15,642,0,0,0,5,1259
+Alipurduar (M),Cooking inside house:,566,6,4,7,15,642,0,0,0,0,1240
+Alipurduar (M),Has Kitchen,445,5,3,7,6,598,0,0,0,0,1064
+Alipurduar (M),Does not have kitchen,121,1,1,0,9,44,0,0,0,0,176
+Alipurduar (M),Cooking outside house:,14,0,0,0,0,0,0,0,0,0,14
+Alipurduar (M),Has Kitchen,14,0,0,0,0,0,0,0,0,0,14
+Alipurduar (M),Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+Alipurduar (M),No Cooking,0,0,0,0,0,0,0,0,0,5,5
+Haldibari (M),Total,1217,88,2,2,31,622,2,2,10,10,1986
+Haldibari (M),Cooking inside house:,1214,86,2,2,29,619,2,2,10,0,1966
+Haldibari (M),Has Kitchen,957,70,2,2,14,557,2,1,10,0,1615
+Haldibari (M),Does not have kitchen,257,16,0,0,15,62,0,1,0,0,351
+Haldibari (M),Cooking outside house:,3,2,0,0,2,3,0,0,0,0,10
+Haldibari (M),Has Kitchen,3,1,0,0,2,1,0,0,0,0,7
+Haldibari (M),Does not have kitchen,0,1,0,0,0,2,0,0,0,0,3
+Haldibari (M),No Cooking,0,0,0,0,0,0,0,0,0,10,10
+Mekliganj (M),Total,772,281,30,0,24,302,9,0,35,5,1458
+Mekliganj (M),Cooking inside house:,770,276,28,0,24,302,9,0,35,0,1444
+Mekliganj (M),Has Kitchen,654,225,28,0,16,288,6,0,28,0,1245
+Mekliganj (M),Does not have kitchen,116,51,0,0,8,14,3,0,7,0,199
+Mekliganj (M),Cooking outside house:,2,5,2,0,0,0,0,0,0,0,9
+Mekliganj (M),Has Kitchen,2,5,2,0,0,0,0,0,0,0,9
+Mekliganj (M),Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+Mekliganj (M),No Cooking,0,0,0,0,0,0,0,0,0,5,5
+Mathabhanga (M),Total,111,3,0,0,1,25,0,0,0,0,140
+Mathabhanga (M),Cooking inside house:,110,3,0,0,1,25,0,0,0,0,139
+Mathabhanga (M),Has Kitchen,52,1,0,0,0,20,0,0,0,0,73
+Mathabhanga (M),Does not have kitchen,58,2,0,0,1,5,0,0,0,0,66
+Mathabhanga (M),Cooking outside house:,1,0,0,0,0,0,0,0,0,0,1
+Mathabhanga (M),Has Kitchen,1,0,0,0,0,0,0,0,0,0,1
+Mathabhanga (M),Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+Mathabhanga (M),No Cooking,0,0,0,0,0,0,0,0,0,0,0
+Koch Bihar (M),Total,1778,57,47,43,274,5777,0,4,108,20,8108
+Koch Bihar (M),Cooking inside house:,1714,53,47,43,265,5752,0,4,77,0,7955
+Koch Bihar (M),Has Kitchen,939,30,32,41,179,5498,0,4,20,0,6743
+Koch Bihar (M),Does not have kitchen,775,23,15,2,86,254,0,0,57,0,1212
+Koch Bihar (M),Cooking outside house:,64,4,0,0,9,25,0,0,31,0,133
+Koch Bihar (M),Has Kitchen,20,4,0,0,2,16,0,0,8,0,50
+Koch Bihar (M),Does not have kitchen,44,0,0,0,7,9,0,0,23,0,83
+Koch Bihar (M),No Cooking,0,0,0,0,0,0,0,0,0,20,20
+Tufanganj (M),Total,953,26,4,0,24,754,0,3,8,3,1775
+Tufanganj (M),Cooking inside house:,942,25,4,0,24,751,0,3,8,0,1757
+Tufanganj (M),Has Kitchen,791,19,4,0,13,720,0,2,3,0,1552
+Tufanganj (M),Does not have kitchen,151,6,0,0,11,31,0,1,5,0,205
+Tufanganj (M),Cooking outside house:,11,1,0,0,0,3,0,0,0,0,15
+Tufanganj (M),Has Kitchen,4,1,0,0,0,0,0,0,0,0,5
+Tufanganj (M),Does not have kitchen,7,0,0,0,0,3,0,0,0,0,10
+Tufanganj (M),No Cooking,0,0,0,0,0,0,0,0,0,3,3
+Dinhata (M),Total,2182,98,19,73,152,3183,0,10,12,18,5747
+Dinhata (M),Cooking inside house:,2107,96,18,73,151,3179,0,10,12,0,5646
+Dinhata (M),Has Kitchen,1627,69,11,12,59,3046,0,8,2,0,4834
+Dinhata (M),Does not have kitchen,480,27,7,61,92,133,0,2,10,0,812
+Dinhata (M),Cooking outside house:,75,2,1,0,1,4,0,0,0,0,83
+Dinhata (M),Has Kitchen,56,0,1,0,0,3,0,0,0,0,60
+Dinhata (M),Does not have kitchen,19,2,0,0,1,1,0,0,0,0,23
+Dinhata (M),No Cooking,0,0,0,0,0,0,0,0,0,18,18
+Islampur (M),Total,3159,791,50,87,55,2373,1,1,13,37,6567
+Islampur (M),Cooking inside house:,2589,684,39,81,49,2329,1,1,7,0,5780
+Islampur (M),Has Kitchen,2031,494,26,46,29,2166,0,1,2,0,4795
+Islampur (M),Does not have kitchen,558,190,13,35,20,163,1,0,5,0,985
+Islampur (M),Cooking outside house:,570,107,11,6,6,44,0,0,6,0,750
+Islampur (M),Has Kitchen,350,69,9,3,1,33,0,0,1,0,466
+Islampur (M),Does not have kitchen,220,38,2,3,5,11,0,0,5,0,284
+Islampur (M),No Cooking,0,0,0,0,0,0,0,0,0,37,37
+Dalkhola (M),Total,2270,1861,753,49,19,1623,4,3,245,33,6860
+Dalkhola (M),Cooking inside house:,2121,1711,728,48,18,1604,4,3,239,0,6476
+Dalkhola (M),Has Kitchen,1570,1302,453,34,7,1432,3,1,135,0,4937
+Dalkhola (M),Does not have kitchen,551,409,275,14,11,172,1,2,104,0,1539
+Dalkhola (M),Cooking outside house:,149,150,25,1,1,19,0,0,6,0,351
+Dalkhola (M),Has Kitchen,90,108,8,1,1,8,0,0,4,0,220
+Dalkhola (M),Does not have kitchen,59,42,17,0,0,11,0,0,2,0,131
+Dalkhola (M),No Cooking,0,0,0,0,0,0,0,0,0,33,33
+Raiganj (M),Total,6322,560,501,465,117,4234,2,39,30,71,12341
+Raiganj (M),Cooking inside house:,5939,488,471,453,111,4172,2,38,30,0,11704
+Raiganj (M),Has Kitchen,2694,199,160,286,54,3853,2,27,3,0,7278
+Raiganj (M),Does not have kitchen,3245,289,311,167,57,319,0,11,27,0,4426
+Raiganj (M),Cooking outside house:,383,72,30,12,6,62,0,1,0,0,566
+Raiganj (M),Has Kitchen,183,30,23,10,4,55,0,1,0,0,306
+Raiganj (M),Does not have kitchen,200,42,7,2,2,7,0,0,0,0,260
+Raiganj (M),No Cooking,0,0,0,0,0,0,0,0,0,71,71
+Kaliaganj (M),Total,3017,359,203,54,10,851,1,0,287,16,4798
+Kaliaganj (M),Cooking inside house:,2930,337,172,53,10,848,0,0,280,0,4630
+Kaliaganj (M),Has Kitchen,1722,151,84,32,8,758,0,0,134,0,2889
+Kaliaganj (M),Does not have kitchen,1208,186,88,21,2,90,0,0,146,0,1741
+Kaliaganj (M),Cooking outside house:,87,22,31,1,0,3,1,0,7,0,152
+Kaliaganj (M),Has Kitchen,40,12,8,1,0,3,1,0,7,0,72
+Kaliaganj (M),Does not have kitchen,47,10,23,0,0,0,0,0,0,0,80
+Kaliaganj (M),No Cooking,0,0,0,0,0,0,0,0,0,16,16
+Gangarampur (M),Total,3375,1084,637,200,5,853,3,0,193,8,6358
+Gangarampur (M),Cooking inside house:,3290,1027,588,199,5,847,3,0,172,0,6131
+Gangarampur (M),Has Kitchen,2165,616,347,147,1,782,3,0,59,0,4120
+Gangarampur (M),Does not have kitchen,1125,411,241,52,4,65,0,0,113,0,2011
+Gangarampur (M),Cooking outside house:,85,57,49,1,0,6,0,0,21,0,219
+Gangarampur (M),Has Kitchen,56,48,36,1,0,4,0,0,17,0,162
+Gangarampur (M),Does not have kitchen,29,9,13,0,0,2,0,0,4,0,57
+Gangarampur (M),No Cooking,0,0,0,0,0,0,0,0,0,8,8
+Balurghat (M + OG),Total,6828,428,460,1053,151,6921,13,37,21,54,15966
+Balurghat (M + OG),Cooking inside house:,6556,391,435,1034,150,6898,13,37,21,0,15535
+Balurghat (M + OG),Has Kitchen,3112,223,164,656,68,6235,6,34,12,0,10510
+Balurghat (M + OG),Does not have kitchen,3444,168,271,378,82,663,7,3,9,0,5025
+Balurghat (M + OG),Cooking outside house:,272,37,25,19,1,23,0,0,0,0,377
+Balurghat (M + OG),Has Kitchen,132,25,18,6,0,10,0,0,0,0,191
+Balurghat (M + OG),Does not have kitchen,140,12,7,13,1,13,0,0,0,0,186
+Balurghat (M + OG),No Cooking,0,0,0,0,0,0,0,0,0,54,54
+Old Malda (M),Total,2594,199,791,686,31,1073,8,23,159,44,5608
+Old Malda (M),Cooking inside house:,2532,179,740,672,30,1064,8,23,145,0,5393
+Old Malda (M),Has Kitchen,1307,83,296,328,15,874,5,16,24,0,2948
+Old Malda (M),Does not have kitchen,1225,96,444,344,15,190,3,7,121,0,2445
+Old Malda (M),Cooking outside house:,62,20,51,14,1,9,0,0,14,0,171
+Old Malda (M),Has Kitchen,31,19,24,12,0,3,0,0,12,0,101
+Old Malda (M),Does not have kitchen,31,1,27,2,1,6,0,0,2,0,70
+Old Malda (M),No Cooking,0,0,0,0,0,0,0,0,0,44,44
+English Bazar (M),Total,4428,292,349,1191,87,5096,9,151,63,55,11721
+English Bazar (M),Cooking inside house:,4164,270,331,1157,79,5059,9,148,63,0,11280
+English Bazar (M),Has Kitchen,1249,110,105,414,44,4257,6,125,7,0,6317
+English Bazar (M),Does not have kitchen,2915,160,226,743,35,802,3,23,56,0,4963
+English Bazar (M),Cooking outside house:,264,22,18,34,8,37,0,3,0,0,386
+English Bazar (M),Has Kitchen,194,15,7,12,0,17,0,2,0,0,247
+English Bazar (M),Does not have kitchen,70,7,11,22,8,20,0,1,0,0,139
+English Bazar (M),No Cooking,0,0,0,0,0,0,0,0,0,55,55
+Dhulian (M),Total,1887,586,252,9242,14,982,7,17,121,18,13126
+Dhulian (M),Cooking inside house:,1741,472,241,8841,12,976,7,16,116,0,12422
+Dhulian (M),Has Kitchen,586,66,75,2178,7,844,1,13,38,0,3808
+Dhulian (M),Does not have kitchen,1155,406,166,6663,5,132,6,3,78,0,8614
+Dhulian (M),Cooking outside house:,146,114,11,401,2,6,0,1,5,0,686
+Dhulian (M),Has Kitchen,41,37,2,168,0,4,0,0,5,0,257
+Dhulian (M),Does not have kitchen,105,77,9,233,2,2,0,1,0,0,429
+Dhulian (M),No Cooking,0,0,0,0,0,0,0,0,0,18,18
+Jangipur (M),Total,3518,816,1057,2952,34,1855,4,19,596,13,10864
+Jangipur (M),Cooking inside house:,3195,740,937,2766,31,1831,4,19,513,0,10036
+Jangipur (M),Has Kitchen,1011,134,239,919,8,1521,2,11,162,0,4007
+Jangipur (M),Does not have kitchen,2184,606,698,1847,23,310,2,8,351,0,6029
+Jangipur (M),Cooking outside house:,323,76,120,186,3,24,0,0,83,0,815
+Jangipur (M),Has Kitchen,125,39,64,77,0,23,0,0,63,0,391
+Jangipur (M),Does not have kitchen,198,37,56,109,3,1,0,0,20,0,424
+Jangipur (M),No Cooking,0,0,0,0,0,0,0,0,0,13,13
+Jiaganj-Azimganj (M),Total,3103,415,509,1395,65,1451,5,8,37,27,7015
+Jiaganj-Azimganj (M),Cooking inside house:,2694,392,501,1334,65,1436,5,8,37,0,6472
+Jiaganj-Azimganj (M),Has Kitchen,1246,111,161,498,57,1240,3,7,3,0,3326
+Jiaganj-Azimganj (M),Does not have kitchen,1448,281,340,836,8,196,2,1,34,0,3146
+Jiaganj-Azimganj (M),Cooking outside house:,409,23,8,61,0,15,0,0,0,0,516
+Jiaganj-Azimganj (M),Has Kitchen,228,12,3,29,0,7,0,0,0,0,279
+Jiaganj-Azimganj (M),Does not have kitchen,181,11,5,32,0,8,0,0,0,0,237
+Jiaganj-Azimganj (M),No Cooking,0,0,0,0,0,0,0,0,0,27,27
+Murshidabad (M),Total,2389,1508,92,355,47,673,12,12,118,18,5224
+Murshidabad (M),Cooking inside house:,2190,1405,73,330,21,653,10,11,113,0,4806
+Murshidabad (M),Has Kitchen,1316,694,54,149,15,609,10,6,108,0,2961
+Murshidabad (M),Does not have kitchen,874,711,19,181,6,44,0,5,5,0,1845
+Murshidabad (M),Cooking outside house:,199,103,19,25,26,20,2,1,5,0,400
+Murshidabad (M),Has Kitchen,141,59,16,20,14,19,2,1,1,0,273
+Murshidabad (M),Does not have kitchen,58,44,3,5,12,1,0,0,4,0,127
+Murshidabad (M),No Cooking,0,0,0,0,0,0,0,0,0,18,18
+Kandi (M),Total,1635,301,1427,987,21,1281,4,20,15,13,5704
+Kandi (M),Cooking inside house:,1510,271,1208,928,21,1274,3,18,15,0,5248
+Kandi (M),Has Kitchen,394,142,203,432,10,1101,3,18,5,0,2308
+Kandi (M),Does not have kitchen,1116,129,1005,496,11,173,0,0,10,0,2940
+Kandi (M),Cooking outside house:,125,30,219,59,0,7,1,2,0,0,443
+Kandi (M),Has Kitchen,90,21,135,20,0,6,1,1,0,0,274
+Kandi (M),Does not have kitchen,35,9,84,39,0,1,0,1,0,0,169
+Kandi (M),No Cooking,0,0,0,0,0,0,0,0,0,13,13
+Berhampore (M),Total,1559,97,267,1603,47,303,3,0,420,13,4312
+Berhampore (M),Cooking inside house:,1506,70,261,1579,47,303,3,0,415,0,4184
+Berhampore (M),Has Kitchen,225,12,26,239,3,248,0,0,60,0,813
+Berhampore (M),Does not have kitchen,1281,58,235,1340,44,55,3,0,355,0,3371
+Berhampore (M),Cooking outside house:,53,27,6,24,0,0,0,0,5,0,115
+Berhampore (M),Has Kitchen,16,17,3,8,0,0,0,0,2,0,46
+Berhampore (M),Does not have kitchen,37,10,3,16,0,0,0,0,3,0,69
+Berhampore (M),No Cooking,0,0,0,0,0,0,0,0,0,13,13
+Beldanga (M),Total,1350,595,352,891,20,1032,1,4,63,18,4326
+Beldanga (M),Cooking inside house:,1307,557,348,877,19,1031,1,4,62,0,4206
+Beldanga (M),Has Kitchen,529,193,156,267,2,872,1,4,22,0,2046
+Beldanga (M),Does not have kitchen,778,364,192,610,17,159,0,0,40,0,2160
+Beldanga (M),Cooking outside house:,43,38,4,14,1,1,0,0,1,0,102
+Beldanga (M),Has Kitchen,23,13,4,6,0,0,0,0,0,0,46
+Beldanga (M),Does not have kitchen,20,25,0,8,1,1,0,0,1,0,56
+Beldanga (M),No Cooking,0,0,0,0,0,0,0,0,0,18,18
+Nalhati (M),Total,1019,1657,1514,939,10,778,0,4,14,16,5951
+Nalhati (M),Cooking inside house:,725,1490,1282,804,9,773,0,4,14,0,5101
+Nalhati (M),Has Kitchen,276,287,527,238,4,655,0,4,8,0,1999
+Nalhati (M),Does not have kitchen,449,1203,755,566,5,118,0,0,6,0,3102
+Nalhati (M),Cooking outside house:,294,167,232,135,1,5,0,0,0,0,834
+Nalhati (M),Has Kitchen,270,89,88,73,0,3,0,0,0,0,523
+Nalhati (M),Does not have kitchen,24,78,144,62,1,2,0,0,0,0,311
+Nalhati (M),No Cooking,0,0,0,0,0,0,0,0,0,16,16
+Rampurhat (M),Total,557,77,702,1278,16,1384,2,10,96,12,4134
+Rampurhat (M),Cooking inside house:,537,69,631,1183,15,1373,2,9,94,0,3913
+Rampurhat (M),Has Kitchen,108,8,147,387,7,1146,1,4,19,0,1827
+Rampurhat (M),Does not have kitchen,429,61,484,796,8,227,1,5,75,0,2086
+Rampurhat (M),Cooking outside house:,20,8,71,95,1,11,0,1,2,0,209
+Rampurhat (M),Has Kitchen,7,3,22,25,0,4,0,0,0,0,61
+Rampurhat (M),Does not have kitchen,13,5,49,70,1,7,0,1,2,0,148
+Rampurhat (M),No Cooking,0,0,0,0,0,0,0,0,0,12,12
+Suri (M),Total,422,49,84,1224,18,525,2,0,3,2,2329
+Suri (M),Cooking inside house:,338,33,68,1139,18,523,2,0,3,0,2124
+Suri (M),Has Kitchen,133,31,33,479,10,467,2,0,1,0,1156
+Suri (M),Does not have kitchen,205,2,35,660,8,56,0,0,2,0,968
+Suri (M),Cooking outside house:,84,16,16,85,0,2,0,0,0,0,203
+Suri (M),Has Kitchen,7,14,2,54,0,1,0,0,0,0,78
+Suri (M),Does not have kitchen,77,2,14,31,0,1,0,0,0,0,125
+Suri (M),No Cooking,0,0,0,0,0,0,0,0,0,2,2
+Sainthia (M),Total,722,81,352,3975,19,1279,0,19,243,29,6719
+Sainthia (M),Cooking inside house:,568,44,308,3569,19,1264,0,19,240,0,6031
+Sainthia (M),Has Kitchen,55,12,95,839,12,1091,0,14,23,0,2141
+Sainthia (M),Does not have kitchen,513,32,213,2730,7,173,0,5,217,0,3890
+Sainthia (M),Cooking outside house:,154,37,44,406,0,15,0,0,3,0,659
+Sainthia (M),Has Kitchen,52,5,24,98,0,8,0,0,0,0,187
+Sainthia (M),Does not have kitchen,102,32,20,308,0,7,0,0,3,0,472
+Sainthia (M),No Cooking,0,0,0,0,0,0,0,0,0,29,29
+Dubrajpur (M),Total,912,164,117,2042,9,604,1,2,58,20,3929
+Dubrajpur (M),Cooking inside house:,527,143,76,1502,9,588,1,1,21,0,2868
+Dubrajpur (M),Has Kitchen,170,119,32,583,4,493,1,0,5,0,1407
+Dubrajpur (M),Does not have kitchen,357,24,44,919,5,95,0,1,16,0,1461
+Dubrajpur (M),Cooking outside house:,385,21,41,540,0,16,0,1,37,0,1041
+Dubrajpur (M),Has Kitchen,181,8,16,264,0,10,0,1,13,0,493
+Dubrajpur (M),Does not have kitchen,204,13,25,276,0,6,0,0,24,0,548
+Dubrajpur (M),No Cooking,0,0,0,0,0,0,0,0,0,20,20
+Kulti (M),Total,1714,242,823,22337,294,5580,71,36,1149,193,32439
+Kulti (M),Cooking inside house:,1454,159,545,19908,251,5517,63,34,897,0,28828
+Kulti (M),Has Kitchen,363,75,274,7982,117,5027,36,31,169,0,14074
+Kulti (M),Does not have kitchen,1091,84,271,11926,134,490,27,3,728,0,14754
+Kulti (M),Cooking outside house:,260,83,278,2429,43,63,8,2,252,0,3418
+Kulti (M),Has Kitchen,104,23,211,1073,35,35,7,1,120,0,1609
+Kulti (M),Does not have kitchen,156,60,67,1356,8,28,1,1,132,0,1809
+Kulti (M),No Cooking,0,0,0,0,0,0,0,0,0,193,193
+Asansol (M Corp.),Total,1920,330,490,26461,218,9887,19,43,84,168,39620
+Asansol (M Corp.),Cooking inside house:,1621,224,430,23530,203,9796,16,43,71,0,35934
+Asansol (M Corp.),Has Kitchen,435,77,152,8040,108,8887,10,36,24,0,17769
+Asansol (M Corp.),Does not have kitchen,1186,147,278,15490,95,909,6,7,47,0,18165
+Asansol (M Corp.),Cooking outside house:,299,106,60,2931,15,91,3,0,13,0,3518
+Asansol (M Corp.),Has Kitchen,144,17,19,1139,5,64,0,0,4,0,1392
+Asansol (M Corp.),Does not have kitchen,155,89,41,1792,10,27,3,0,9,0,2126
+Asansol (M Corp.),No Cooking,0,0,0,0,0,0,0,0,0,168,168
+Jamuria (M + OG),Total,458,110,27,7795,15,320,13,2,331,26,9097
+Jamuria (M + OG),Cooking inside house:,268,45,13,5363,11,302,12,2,242,0,6258
+Jamuria (M + OG),Has Kitchen,37,25,2,1567,5,262,2,2,17,0,1919
+Jamuria (M + OG),Does not have kitchen,231,20,11,3796,6,40,10,0,225,0,4339
+Jamuria (M + OG),Cooking outside house:,190,65,14,2432,4,18,1,0,89,0,2813
+Jamuria (M + OG),Has Kitchen,54,22,4,767,2,17,0,0,11,0,877
+Jamuria (M + OG),Does not have kitchen,136,43,10,1665,2,1,1,0,78,0,1936
+Jamuria (M + OG),No Cooking,0,0,0,0,0,0,0,0,0,26,26
+Raniganj (M),Total,439,65,32,6732,11,767,6,40,150,40,8282
+Raniganj (M),Cooking inside house:,226,38,28,6076,11,764,5,40,95,0,7283
+Raniganj (M),Has Kitchen,71,11,3,1379,4,691,1,36,3,0,2199
+Raniganj (M),Does not have kitchen,155,27,25,4697,7,73,4,4,92,0,5084
+Raniganj (M),Cooking outside house:,213,27,4,656,0,3,1,0,55,0,959
+Raniganj (M),Has Kitchen,20,1,3,154,0,1,1,0,2,0,182
+Raniganj (M),Does not have kitchen,193,26,1,502,0,2,0,0,53,0,777
+Raniganj (M),No Cooking,0,0,0,0,0,0,0,0,0,40,40
+Durgapur (M Corp.),Total,2612,137,227,5074,182,1371,5,66,191,32,9897
+Durgapur (M Corp.),Cooking inside house:,2433,117,187,4639,174,1340,3,65,181,0,9139
+Durgapur (M Corp.),Has Kitchen,687,33,45,1615,69,1047,1,48,6,0,3551
+Durgapur (M Corp.),Does not have kitchen,1746,84,142,3024,105,293,2,17,175,0,5588
+Durgapur (M Corp.),Cooking outside house:,179,20,40,435,8,31,2,1,10,0,726
+Durgapur (M Corp.),Has Kitchen,60,2,13,140,7,27,0,1,1,0,251
+Durgapur (M Corp.),Does not have kitchen,119,18,27,295,1,4,2,0,9,0,475
+Durgapur (M Corp.),No Cooking,0,0,0,0,0,0,0,0,0,32,32
+Katwa (M),Total,937,153,557,2220,52,1011,8,9,106,21,5074
+Katwa (M),Cooking inside house:,914,131,533,2009,52,1010,8,3,105,0,4765
+Katwa (M),Has Kitchen,404,62,241,833,31,878,3,3,14,0,2469
+Katwa (M),Does not have kitchen,510,69,292,1176,21,132,5,0,91,0,2296
+Katwa (M),Cooking outside house:,23,22,24,211,0,1,0,6,1,0,288
+Katwa (M),Has Kitchen,3,13,15,208,0,1,0,6,1,0,247
+Katwa (M),Does not have kitchen,20,9,9,3,0,0,0,0,0,0,41
+Katwa (M),No Cooking,0,0,0,0,0,0,0,0,0,21,21
+Dainhat (M),Total,750,573,66,171,0,149,0,0,82,5,1796
+Dainhat (M),Cooking inside house:,434,376,54,162,0,142,0,0,38,0,1206
+Dainhat (M),Has Kitchen,245,251,38,88,0,123,0,0,27,0,772
+Dainhat (M),Does not have kitchen,189,125,16,74,0,19,0,0,11,0,434
+Dainhat (M),Cooking outside house:,316,197,12,9,0,7,0,0,44,0,585
+Dainhat (M),Has Kitchen,131,178,5,8,0,4,0,0,16,0,342
+Dainhat (M),Does not have kitchen,185,19,7,1,0,3,0,0,28,0,243
+Dainhat (M),No Cooking,0,0,0,0,0,0,0,0,0,5,5
+Guskara (M),Total,2600,406,556,627,10,1025,7,5,431,14,5681
+Guskara (M),Cooking inside house:,2456,291,449,552,10,1012,7,5,194,0,4976
+Guskara (M),Has Kitchen,1140,166,306,273,4,882,5,4,30,0,2810
+Guskara (M),Does not have kitchen,1316,125,143,279,6,130,2,1,164,0,2166
+Guskara (M),Cooking outside house:,144,115,107,75,0,13,0,0,237,0,691
+Guskara (M),Has Kitchen,87,102,13,18,0,6,0,0,131,0,357
+Guskara (M),Does not have kitchen,57,13,94,57,0,7,0,0,106,0,334
+Guskara (M),No Cooking,0,0,0,0,0,0,0,0,0,14,14
+Barddhaman (M),Total,1552,168,556,6284,193,6312,24,41,49,53,15232
+Barddhaman (M),Cooking inside house:,1352,127,504,5835,185,6283,20,34,43,0,14383
+Barddhaman (M),Has Kitchen,424,64,101,1709,69,5443,9,25,17,0,7861
+Barddhaman (M),Does not have kitchen,928,63,403,4126,116,840,11,9,26,0,6522
+Barddhaman (M),Cooking outside house:,200,41,52,449,8,29,4,7,6,0,796
+Barddhaman (M),Has Kitchen,60,9,26,163,1,16,1,7,2,0,285
+Barddhaman (M),Does not have kitchen,140,32,26,286,7,13,3,0,4,0,511
+Barddhaman (M),No Cooking,0,0,0,0,0,0,0,0,0,53,53
+Kalna (M),Total,2065,325,224,3233,80,4165,2,13,296,82,10485
+Kalna (M),Cooking inside house:,1927,268,215,3168,75,4149,2,12,287,0,10103
+Kalna (M),Has Kitchen,1004,179,67,1518,38,3697,2,11,75,0,6591
+Kalna (M),Does not have kitchen,923,89,148,1650,37,452,0,1,212,0,3512
+Kalna (M),Cooking outside house:,138,57,9,65,5,16,0,1,9,0,300
+Kalna (M),Has Kitchen,40,47,1,20,0,4,0,0,3,0,115
+Kalna (M),Does not have kitchen,98,10,8,45,5,12,0,1,6,0,185
+Kalna (M),No Cooking,0,0,0,0,0,0,0,0,0,82,82
+Memari (M),Total,1430,246,286,1206,11,792,6,27,104,17,4125
+Memari (M),Cooking inside house:,1338,210,215,1077,11,787,6,27,100,0,3771
+Memari (M),Has Kitchen,454,71,57,376,6,675,1,24,7,0,1671
+Memari (M),Does not have kitchen,884,139,158,701,5,112,5,3,93,0,2100
+Memari (M),Cooking outside house:,92,36,71,129,0,5,0,0,4,0,337
+Memari (M),Has Kitchen,7,18,68,31,0,5,0,0,4,0,133
+Memari (M),Does not have kitchen,85,18,3,98,0,0,0,0,0,0,204
+Memari (M),No Cooking,0,0,0,0,0,0,0,0,0,17,17
+Nabadwip (M),Total,1650,265,919,5773,49,1985,8,25,14,27,10715
+Nabadwip (M),Cooking inside house:,1605,241,901,5613,49,1978,8,25,14,0,10434
+Nabadwip (M),Has Kitchen,635,89,268,1751,18,1565,1,19,4,0,4350
+Nabadwip (M),Does not have kitchen,970,152,633,3862,31,413,7,6,10,0,6084
+Nabadwip (M),Cooking outside house:,45,24,18,160,0,7,0,0,0,0,254
+Nabadwip (M),Has Kitchen,14,8,14,72,0,6,0,0,0,0,114
+Nabadwip (M),Does not have kitchen,31,16,4,88,0,1,0,0,0,0,140
+Nabadwip (M),No Cooking,0,0,0,0,0,0,0,0,0,27,27
+Krishnanagar (M),Total,3994,98,314,1937,128,5281,2,10,33,46,11843
+Krishnanagar (M),Cooking inside house:,3838,85,298,1887,123,5236,2,10,32,0,11511
+Krishnanagar (M),Has Kitchen,1638,45,57,785,46,4582,1,9,11,0,7174
+Krishnanagar (M),Does not have kitchen,2200,40,241,1102,77,654,1,1,21,0,4337
+Krishnanagar (M),Cooking outside house:,156,13,16,50,5,45,0,0,1,0,286
+Krishnanagar (M),Has Kitchen,63,2,3,34,0,20,0,0,1,0,123
+Krishnanagar (M),Does not have kitchen,93,11,13,16,5,25,0,0,0,0,163
+Krishnanagar (M),No Cooking,0,0,0,0,0,0,0,0,0,46,46
+Santipur (M),Total,8404,1280,933,4462,149,2836,14,22,861,40,19001
+Santipur (M),Cooking inside house:,8267,1232,919,4412,148,2820,14,21,812,0,18645
+Santipur (M),Has Kitchen,3621,696,377,2057,49,2289,8,14,328,0,9439
+Santipur (M),Does not have kitchen,4646,536,542,2355,99,531,6,7,484,0,9206
+Santipur (M),Cooking outside house:,137,48,14,50,1,16,0,1,49,0,316
+Santipur (M),Has Kitchen,91,40,9,31,0,16,0,1,14,0,202
+Santipur (M),Does not have kitchen,46,8,5,19,1,0,0,0,35,0,114
+Santipur (M),No Cooking,0,0,0,0,0,0,0,0,0,40,40
+Taherpur (NA + OG),Total,2070,103,52,956,67,1877,1,16,163,34,5339
+Taherpur (NA + OG),Cooking inside house:,2039,96,50,929,66,1865,1,16,163,0,5225
+Taherpur (NA + OG),Has Kitchen,1193,55,27,599,34,1636,1,15,148,0,3708
+Taherpur (NA + OG),Does not have kitchen,846,41,23,330,32,229,0,1,15,0,1517
+Taherpur (NA + OG),Cooking outside house:,31,7,2,27,1,12,0,0,0,0,80
+Taherpur (NA + OG),Has Kitchen,18,0,2,17,0,10,0,0,0,0,47
+Taherpur (NA + OG),Does not have kitchen,13,7,0,10,1,2,0,0,0,0,33
+Taherpur (NA + OG),No Cooking,0,0,0,0,0,0,0,0,0,34,34
+Birnagar (M),Total,1805,255,48,209,19,882,1,2,22,1,3244
+Birnagar (M),Cooking inside house:,1689,248,48,206,19,875,1,2,21,0,3109
+Birnagar (M),Has Kitchen,1347,197,41,187,16,846,0,2,18,0,2654
+Birnagar (M),Does not have kitchen,342,51,7,19,3,29,1,0,3,0,455
+Birnagar (M),Cooking outside house:,116,7,0,3,0,7,0,0,1,0,134
+Birnagar (M),Has Kitchen,32,6,0,2,0,6,0,0,1,0,47
+Birnagar (M),Does not have kitchen,84,1,0,1,0,1,0,0,0,0,87
+Birnagar (M),No Cooking,0,0,0,0,0,0,0,0,0,1,1
+Ranaghat (M),Total,384,25,192,931,63,1931,0,5,18,23,3572
+Ranaghat (M),Cooking inside house:,377,22,187,870,63,1917,0,5,17,0,3458
+Ranaghat (M),Has Kitchen,186,17,42,408,20,1607,0,4,8,0,2292
+Ranaghat (M),Does not have kitchen,191,5,145,462,43,310,0,1,9,0,1166
+Ranaghat (M),Cooking outside house:,7,3,5,61,0,14,0,0,1,0,91
+Ranaghat (M),Has Kitchen,6,1,4,52,0,7,0,0,1,0,71
+Ranaghat (M),Does not have kitchen,1,2,1,9,0,7,0,0,0,0,20
+Ranaghat (M),No Cooking,0,0,0,0,0,0,0,0,0,23,23
+Cooper's Camp (NA + OG),Total,2098,234,51,1205,26,558,1,2,253,19,4447
+Cooper's Camp (NA + OG),Cooking inside house:,1539,176,38,924,26,497,1,1,224,0,3426
+Cooper's Camp (NA + OG),Has Kitchen,597,56,11,268,15,268,0,0,67,0,1282
+Cooper's Camp (NA + OG),Does not have kitchen,942,120,27,656,11,229,1,1,157,0,2144
+Cooper's Camp (NA + OG),Cooking outside house:,559,58,13,281,0,61,0,1,29,0,1002
+Cooper's Camp (NA + OG),Has Kitchen,360,38,12,189,0,56,0,1,25,0,681
+Cooper's Camp (NA + OG),Does not have kitchen,199,20,1,92,0,5,0,0,4,0,321
+Cooper's Camp (NA + OG),No Cooking,0,0,0,0,0,0,0,0,0,19,19
+Chakdaha (M),Total,3718,197,142,712,137,5423,2,10,12,34,10387
+Chakdaha (M),Cooking inside house:,3332,181,130,693,134,5358,1,10,11,0,9850
+Chakdaha (M),Has Kitchen,1889,96,54,382,65,4646,1,10,9,0,7152
+Chakdaha (M),Does not have kitchen,1443,85,76,311,69,712,0,0,2,0,2698
+Chakdaha (M),Cooking outside house:,386,16,12,19,3,65,1,0,1,0,503
+Chakdaha (M),Has Kitchen,250,6,9,9,1,59,1,0,0,0,335
+Chakdaha (M),Does not have kitchen,136,10,3,10,2,6,0,0,1,0,168
+Chakdaha (M),No Cooking,0,0,0,0,0,0,0,0,0,34,34
+Kalyani (M),Total,5265,189,353,2681,145,4384,40,20,31,72,13180
+Kalyani (M),Cooking inside house:,4492,164,317,2237,137,4261,39,20,22,0,11689
+Kalyani (M),Has Kitchen,3047,102,117,1405,86,3625,35,15,10,0,8442
+Kalyani (M),Does not have kitchen,1445,62,200,832,51,636,4,5,12,0,3247
+Kalyani (M),Cooking outside house:,773,25,36,444,8,123,1,0,9,0,1419
+Kalyani (M),Has Kitchen,557,15,31,355,3,111,0,0,5,0,1077
+Kalyani (M),Does not have kitchen,216,10,5,89,5,12,1,0,4,0,342
+Kalyani (M),No Cooking,0,0,0,0,0,0,0,0,0,72,72
+Gayespur (M),Total,225,14,17,148,25,144,0,0,0,1,574
+Gayespur (M),Cooking inside house:,218,10,17,144,25,144,0,0,0,0,558
+Gayespur (M),Has Kitchen,94,7,9,82,15,119,0,0,0,0,326
+Gayespur (M),Does not have kitchen,124,3,8,62,10,25,0,0,0,0,232
+Gayespur (M),Cooking outside house:,7,4,0,4,0,0,0,0,0,0,15
+Gayespur (M),Has Kitchen,1,0,0,0,0,0,0,0,0,0,1
+Gayespur (M),Does not have kitchen,6,4,0,4,0,0,0,0,0,0,14
+Gayespur (M),No Cooking,0,0,0,0,0,0,0,0,0,1,1
+Bongaon (M),Total,4661,171,114,1539,77,2949,3,36,43,38,9631
+Bongaon (M),Cooking inside house:,4163,144,110,1402,75,2901,3,34,43,0,8875
+Bongaon (M),Has Kitchen,2349,70,36,702,38,2448,1,31,26,0,5701
+Bongaon (M),Does not have kitchen,1814,74,74,700,37,453,2,3,17,0,3174
+Bongaon (M),Cooking outside house:,498,27,4,137,2,48,0,2,0,0,718
+Bongaon (M),Has Kitchen,358,13,4,80,0,42,0,2,0,0,499
+Bongaon (M),Does not have kitchen,140,14,0,57,2,6,0,0,0,0,219
+Bongaon (M),No Cooking,0,0,0,0,0,0,0,0,0,38,38
+Halisahar (M),Total,1860,191,573,9009,390,7540,7,92,192,241,20095
+Halisahar (M),Cooking inside house:,1724,145,538,8677,380,7459,7,92,192,0,19214
+Halisahar (M),Has Kitchen,788,65,181,3489,142,6491,4,81,42,0,11283
+Halisahar (M),Does not have kitchen,936,80,357,5188,238,968,3,11,150,0,7931
+Halisahar (M),Cooking outside house:,136,46,35,332,10,81,0,0,0,0,640
+Halisahar (M),Has Kitchen,58,19,14,202,5,67,0,0,0,0,365
+Halisahar (M),Does not have kitchen,78,27,21,130,5,14,0,0,0,0,275
+Halisahar (M),No Cooking,0,0,0,0,0,0,0,0,0,241,241
+Kanchrapara (M + OG),Total,2068,115,173,1409,241,2551,2,14,14,35,6622
+Kanchrapara (M + OG),Cooking inside house:,1903,96,146,1298,216,2500,2,13,13,0,6187
+Kanchrapara (M + OG),Has Kitchen,973,47,41,557,121,2165,2,9,9,0,3924
+Kanchrapara (M + OG),Does not have kitchen,930,49,105,741,95,335,0,4,4,0,2263
+Kanchrapara (M + OG),Cooking outside house:,165,19,27,111,25,51,0,1,1,0,400
+Kanchrapara (M + OG),Has Kitchen,97,16,2,62,0,36,0,1,1,0,215
+Kanchrapara (M + OG),Does not have kitchen,68,3,25,49,25,15,0,0,0,0,185
+Kanchrapara (M + OG),No Cooking,0,0,0,0,0,0,0,0,0,35,35
+Naihati (M),Total,94,24,5,1908,73,667,2,2,7,15,2797
+Naihati (M),Cooking inside house:,88,15,5,1873,72,666,2,2,7,0,2730
+Naihati (M),Has Kitchen,32,9,0,453,23,520,0,2,0,0,1039
+Naihati (M),Does not have kitchen,56,6,5,1420,49,146,2,0,7,0,1691
+Naihati (M),Cooking outside house:,6,9,0,35,1,1,0,0,0,0,52
+Naihati (M),Has Kitchen,6,1,0,17,1,0,0,0,0,0,25
+Naihati (M),Does not have kitchen,0,8,0,18,0,1,0,0,0,0,27
+Naihati (M),No Cooking,0,0,0,0,0,0,0,0,0,15,15
+Bhatpara (M + OG),Total,1670,222,295,7968,446,5178,19,92,41,79,16010
+Bhatpara (M + OG),Cooking inside house:,1489,165,209,7565,410,5069,18,88,38,0,15051
+Bhatpara (M + OG),Has Kitchen,783,92,115,3723,75,4462,16,68,30,0,9364
+Bhatpara (M + OG),Does not have kitchen,706,73,94,3842,335,607,2,20,8,0,5687
+Bhatpara (M + OG),Cooking outside house:,181,57,86,403,36,109,1,4,3,0,880
+Bhatpara (M + OG),Has Kitchen,102,15,85,148,29,21,1,1,3,0,405
+Bhatpara (M + OG),Does not have kitchen,79,42,1,255,7,88,0,3,0,0,475
+Bhatpara (M + OG),No Cooking,0,0,0,0,0,0,0,0,0,79,79
+Gobardanga (M),Total,4801,139,80,568,91,2874,17,88,26,62,8746
+Gobardanga (M),Cooking inside house:,4056,122,50,523,86,2803,13,79,23,0,7755
+Gobardanga (M),Has Kitchen,2480,92,34,331,49,2540,10,64,10,0,5610
+Gobardanga (M),Does not have kitchen,1576,30,16,192,37,263,3,15,13,0,2145
+Gobardanga (M),Cooking outside house:,745,17,30,45,5,71,4,9,3,0,929
+Gobardanga (M),Has Kitchen,599,14,24,38,5,58,4,8,3,0,753
+Gobardanga (M),Does not have kitchen,146,3,6,7,0,13,0,1,0,0,176
+Gobardanga (M),No Cooking,0,0,0,0,0,0,0,0,0,62,62
+Habra (M),Total,3464,481,306,2899,96,3784,5,24,79,38,11176
+Habra (M),Cooking inside house:,3162,301,289,2758,94,3729,5,23,76,0,10437
+Habra (M),Has Kitchen,1568,238,146,1437,50,3276,3,17,63,0,6798
+Habra (M),Does not have kitchen,1594,63,143,1321,44,453,2,6,13,0,3639
+Habra (M),Cooking outside house:,302,180,17,141,2,55,0,1,3,0,701
+Habra (M),Has Kitchen,223,71,13,114,2,40,0,0,3,0,466
+Habra (M),Does not have kitchen,79,109,4,27,0,15,0,1,0,0,235
+Habra (M),No Cooking,0,0,0,0,0,0,0,0,0,38,38
+Ashokenagar Kalyangarh (M),Total,5442,300,405,3829,200,5962,8,23,55,44,16268
+Ashokenagar Kalyangarh (M),Cooking inside house:,4816,265,385,3506,190,5852,8,20,48,0,15090
+Ashokenagar Kalyangarh (M),Has Kitchen,2866,133,224,2126,113,5335,6,15,17,0,10835
+Ashokenagar Kalyangarh (M),Does not have kitchen,1950,132,161,1380,77,517,2,5,31,0,4255
+Ashokenagar Kalyangarh (M),Cooking outside house:,626,35,20,323,10,110,0,3,7,0,1134
+Ashokenagar Kalyangarh (M),Has Kitchen,354,13,16,138,4,83,0,1,4,0,613
+Ashokenagar Kalyangarh (M),Does not have kitchen,272,22,4,185,6,27,0,2,3,0,521
+Ashokenagar Kalyangarh (M),No Cooking,0,0,0,0,0,0,0,0,0,44,44
+Garulia (M),Total,171,45,156,3120,108,2165,5,11,3,19,5803
+Garulia (M),Cooking inside house:,170,41,155,3098,108,2160,5,11,3,0,5751
+Garulia (M),Has Kitchen,83,23,5,964,29,1802,2,10,0,0,2918
+Garulia (M),Does not have kitchen,87,18,150,2134,79,358,3,1,3,0,2833
+Garulia (M),Cooking outside house:,1,4,1,22,0,5,0,0,0,0,33
+Garulia (M),Has Kitchen,1,2,1,5,0,5,0,0,0,0,14
+Garulia (M),Does not have kitchen,0,2,0,17,0,0,0,0,0,0,19
+Garulia (M),No Cooking,0,0,0,0,0,0,0,0,0,19,19
+North Barrackpore (M),Total,56,2,51,850,27,559,2,3,1,7,1558
+North Barrackpore (M),Cooking inside house:,51,2,50,842,27,555,2,3,1,0,1533
+North Barrackpore (M),Has Kitchen,27,1,11,210,12,451,0,1,0,0,713
+North Barrackpore (M),Does not have kitchen,24,1,39,632,15,104,2,2,1,0,820
+North Barrackpore (M),Cooking outside house:,5,0,1,8,0,4,0,0,0,0,18
+North Barrackpore (M),Has Kitchen,2,0,1,7,0,3,0,0,0,0,13
+North Barrackpore (M),Does not have kitchen,3,0,0,1,0,1,0,0,0,0,5
+North Barrackpore (M),No Cooking,0,0,0,0,0,0,0,0,0,7,7
+Barrackpore (M),Total,428,44,185,1687,126,1655,3,57,10,8,4203
+Barrackpore (M),Cooking inside house:,420,27,185,1676,125,1648,3,57,10,0,4151
+Barrackpore (M),Has Kitchen,83,8,75,573,42,1434,1,51,5,0,2272
+Barrackpore (M),Does not have kitchen,337,19,110,1103,83,214,2,6,5,0,1879
+Barrackpore (M),Cooking outside house:,8,17,0,11,1,7,0,0,0,0,44
+Barrackpore (M),Has Kitchen,8,7,0,6,1,4,0,0,0,0,26
+Barrackpore (M),Does not have kitchen,0,10,0,5,0,3,0,0,0,0,18
+Barrackpore (M),No Cooking,0,0,0,0,0,0,0,0,0,8,8
+Titagarh (M),Total,452,195,172,11449,1880,7438,32,29,72,476,22195
+Titagarh (M),Cooking inside house:,438,150,167,11138,1840,7369,32,29,70,0,21233
+Titagarh (M),Has Kitchen,175,61,28,1615,359,4618,21,10,9,0,6896
+Titagarh (M),Does not have kitchen,263,89,139,9523,1481,2751,11,19,61,0,14337
+Titagarh (M),Cooking outside house:,14,45,5,311,40,69,0,0,2,0,486
+Titagarh (M),Has Kitchen,5,13,3,83,18,26,0,0,1,0,149
+Titagarh (M),Does not have kitchen,9,32,2,228,22,43,0,0,1,0,337
+Titagarh (M),No Cooking,0,0,0,0,0,0,0,0,0,476,476
+Khardah (M),Total,233,133,193,1406,165,5973,6,16,16,29,8170
+Khardah (M),Cooking inside house:,229,110,186,1394,161,5950,5,16,15,0,8066
+Khardah (M),Has Kitchen,158,55,46,437,64,5263,1,13,1,0,6038
+Khardah (M),Does not have kitchen,71,55,140,957,97,687,4,3,14,0,2028
+Khardah (M),Cooking outside house:,4,23,7,12,4,23,1,0,1,0,75
+Khardah (M),Has Kitchen,1,8,0,1,0,10,0,0,0,0,20
+Khardah (M),Does not have kitchen,3,15,7,11,4,13,1,0,1,0,55
+Khardah (M),No Cooking,0,0,0,0,0,0,0,0,0,29,29
+Panihati (M),Total,655,143,272,5196,1167,11075,18,70,19,98,18713
+Panihati (M),Cooking inside house:,639,116,271,5131,1160,11057,18,68,19,0,18479
+Panihati (M),Has Kitchen,429,91,80,2696,640,9820,15,60,13,0,13844
+Panihati (M),Does not have kitchen,210,25,191,2435,520,1237,3,8,6,0,4635
+Panihati (M),Cooking outside house:,16,27,1,65,7,18,0,2,0,0,136
+Panihati (M),Has Kitchen,8,23,0,17,2,9,0,0,0,0,59
+Panihati (M),Does not have kitchen,8,4,1,48,5,9,0,2,0,0,77
+Panihati (M),No Cooking,0,0,0,0,0,0,0,0,0,98,98
+Baduria (M),Total,4012,867,42,41,14,632,7,8,135,9,5767
+Baduria (M),Cooking inside house:,2769,468,20,27,13,594,6,8,54,0,3959
+Baduria (M),Has Kitchen,1830,196,5,20,5,555,5,7,22,0,2645
+Baduria (M),Does not have kitchen,939,272,15,7,8,39,1,1,32,0,1314
+Baduria (M),Cooking outside house:,1243,399,22,14,1,38,1,0,81,0,1799
+Baduria (M),Has Kitchen,953,322,20,13,1,35,1,0,52,0,1397
+Baduria (M),Does not have kitchen,290,77,2,1,0,3,0,0,29,0,402
+Baduria (M),No Cooking,0,0,0,0,0,0,0,0,0,9,9
+Barasat (M),Total,3558,304,362,7502,414,5717,9,29,48,39,17982
+Barasat (M),Cooking inside house:,3251,265,331,7207,407,5669,8,29,46,0,17213
+Barasat (M),Has Kitchen,1080,93,192,2309,192,4404,1,21,21,0,8313
+Barasat (M),Does not have kitchen,2171,172,139,4898,215,1265,7,8,25,0,8900
+Barasat (M),Cooking outside house:,307,39,31,295,7,48,1,0,2,0,730
+Barasat (M),Has Kitchen,124,8,16,112,2,25,0,0,1,0,288
+Barasat (M),Does not have kitchen,183,31,15,183,5,23,1,0,1,0,442
+Barasat (M),No Cooking,0,0,0,0,0,0,0,0,0,39,39
+Madhyamgram (M),Total,2926,240,242,5428,727,12838,10,148,148,92,22799
+Madhyamgram (M),Cooking inside house:,2465,201,162,5234,710,12761,10,144,142,0,21829
+Madhyamgram (M),Has Kitchen,1174,142,70,2441,349,11400,9,111,40,0,15736
+Madhyamgram (M),Does not have kitchen,1291,59,92,2793,361,1361,1,33,102,0,6093
+Madhyamgram (M),Cooking outside house:,461,39,80,194,17,77,0,4,6,0,878
+Madhyamgram (M),Has Kitchen,329,8,73,77,8,45,0,3,4,0,547
+Madhyamgram (M),Does not have kitchen,132,31,7,117,9,32,0,1,2,0,331
+Madhyamgram (M),No Cooking,0,0,0,0,0,0,0,0,0,92,92
+New Barrackpore (M),Total,354,39,41,1536,160,2425,0,122,6,13,4696
+New Barrackpore (M),Cooking inside house:,341,34,36,1507,160,2419,0,122,6,0,4625
+New Barrackpore (M),Has Kitchen,129,12,13,704,93,2256,0,118,2,0,3327
+New Barrackpore (M),Does not have kitchen,212,22,23,803,67,163,0,4,4,0,1298
+New Barrackpore (M),Cooking outside house:,13,5,5,29,0,6,0,0,0,0,58
+New Barrackpore (M),Has Kitchen,7,1,4,17,0,2,0,0,0,0,31
+New Barrackpore (M),Does not have kitchen,6,4,1,12,0,4,0,0,0,0,27
+New Barrackpore (M),No Cooking,0,0,0,0,0,0,0,0,0,13,13
+North DumDum (M),Total,1396,84,88,3458,938,11011,8,68,24,70,17145
+North DumDum (M),Cooking inside house:,1219,82,81,3403,932,10968,7,68,23,0,16783
+North DumDum (M),Has Kitchen,571,61,53,1328,530,9291,3,53,12,0,11902
+North DumDum (M),Does not have kitchen,648,21,28,2075,402,1677,4,15,11,0,4881
+North DumDum (M),Cooking outside house:,177,2,7,55,6,43,1,0,1,0,292
+North DumDum (M),Has Kitchen,138,1,3,11,4,34,1,0,1,0,193
+North DumDum (M),Does not have kitchen,39,1,4,44,2,9,0,0,0,0,99
+North DumDum (M),No Cooking,0,0,0,0,0,0,0,0,0,70,70
+Kamarhati (M),Total,566,276,507,9429,1403,3670,99,201,50,172,16373
+Kamarhati (M),Cooking inside house:,505,226,489,9106,1353,3609,98,187,49,0,15622
+Kamarhati (M),Has Kitchen,253,91,134,2190,391,2456,40,134,26,0,5715
+Kamarhati (M),Does not have kitchen,252,135,355,6916,962,1153,58,53,23,0,9907
+Kamarhati (M),Cooking outside house:,61,50,18,323,50,61,1,14,1,0,579
+Kamarhati (M),Has Kitchen,9,14,4,151,22,41,1,13,0,0,255
+Kamarhati (M),Does not have kitchen,52,36,14,172,28,20,0,1,1,0,324
+Kamarhati (M),No Cooking,0,0,0,0,0,0,0,0,0,172,172
+Baranagar (M),Total,506,79,142,3042,2832,6369,12,28,36,185,13231
+Baranagar (M),Cooking inside house:,446,69,131,2893,2815,6355,12,28,36,0,12785
+Baranagar (M),Has Kitchen,139,39,35,583,826,4746,0,14,9,0,6391
+Baranagar (M),Does not have kitchen,307,30,96,2310,1989,1609,12,14,27,0,6394
+Baranagar (M),Cooking outside house:,60,10,11,149,17,14,0,0,0,0,261
+Baranagar (M),Has Kitchen,41,3,2,22,12,8,0,0,0,0,88
+Baranagar (M),Does not have kitchen,19,7,9,127,5,6,0,0,0,0,173
+Baranagar (M),No Cooking,0,0,0,0,0,0,0,0,0,185,185
+Dum Dum (M),Total,234,39,5,317,352,4954,1,79,0,23,6004
+Dum Dum (M),Cooking inside house:,229,39,5,315,350,4944,1,79,0,0,5962
+Dum Dum (M),Has Kitchen,130,38,3,116,153,4633,1,73,0,0,5147
+Dum Dum (M),Does not have kitchen,99,1,2,199,197,311,0,6,0,0,815
+Dum Dum (M),Cooking outside house:,5,0,0,2,2,10,0,0,0,0,19
+Dum Dum (M),Has Kitchen,1,0,0,1,0,10,0,0,0,0,12
+Dum Dum (M),Does not have kitchen,4,0,0,1,2,0,0,0,0,0,7
+Dum Dum (M),No Cooking,0,0,0,0,0,0,0,0,0,23,23
+South DumDum (M),Total,1792,257,328,2561,3993,17088,4,310,22,154,26509
+South DumDum (M),Cooking inside house:,1736,237,326,2524,3947,17008,4,308,22,0,26112
+South DumDum (M),Has Kitchen,760,123,45,773,1212,13922,1,207,11,0,17054
+South DumDum (M),Does not have kitchen,976,114,281,1751,2735,3086,3,101,11,0,9058
+South DumDum (M),Cooking outside house:,56,20,2,37,46,80,0,2,0,0,243
+South DumDum (M),Has Kitchen,13,14,2,15,17,37,0,0,0,0,98
+South DumDum (M),Does not have kitchen,43,6,0,22,29,43,0,2,0,0,145
+South DumDum (M),No Cooking,0,0,0,0,0,0,0,0,0,154,154
+Rajarhat Gopalpur (M),Total,2378,201,356,3226,1966,12752,8,65,35,83,21070
+Rajarhat Gopalpur (M),Cooking inside house:,2221,178,350,3112,1924,12658,8,63,32,0,20546
+Rajarhat Gopalpur (M),Has Kitchen,960,98,37,1167,715,9909,5,48,19,0,12958
+Rajarhat Gopalpur (M),Does not have kitchen,1261,80,313,1945,1209,2749,3,15,13,0,7588
+Rajarhat Gopalpur (M),Cooking outside house:,157,23,6,114,42,94,0,2,3,0,441
+Rajarhat Gopalpur (M),Has Kitchen,121,14,4,88,26,80,0,2,3,0,338
+Rajarhat Gopalpur (M),Does not have kitchen,36,9,2,26,16,14,0,0,0,0,103
+Rajarhat Gopalpur (M),No Cooking,0,0,0,0,0,0,0,0,0,83,83
+Bidhannagar (M),Total,1624,84,14,330,3475,8339,7,150,15,68,14106
+Bidhannagar (M),Cooking inside house:,1551,81,13,308,3417,8287,6,150,15,0,13828
+Bidhannagar (M),Has Kitchen,674,40,2,144,917,6564,3,120,10,0,8474
+Bidhannagar (M),Does not have kitchen,877,41,11,164,2500,1723,3,30,5,0,5354
+Bidhannagar (M),Cooking outside house:,73,3,1,22,58,52,1,0,0,0,210
+Bidhannagar (M),Has Kitchen,7,2,1,19,39,33,1,0,0,0,102
+Bidhannagar (M),Does not have kitchen,66,1,0,3,19,19,0,0,0,0,108
+Bidhannagar (M),No Cooking,0,0,0,0,0,0,0,0,0,68,68
+Bansberia (M),Total,551,83,501,3984,44,2583,6,107,539,34,8432
+Bansberia (M),Cooking inside house:,522,69,490,3843,40,2561,6,106,532,0,8169
+Bansberia (M),Has Kitchen,226,46,289,1798,14,2266,2,87,134,0,4862
+Bansberia (M),Does not have kitchen,296,23,201,2045,26,295,4,19,398,0,3307
+Bansberia (M),Cooking outside house:,29,14,11,141,4,22,0,1,7,0,229
+Bansberia (M),Has Kitchen,15,2,5,49,0,17,0,1,6,0,95
+Bansberia (M),Does not have kitchen,14,12,6,92,4,5,0,0,1,0,134
+Bansberia (M),No Cooking,0,0,0,0,0,0,0,0,0,34,34
+Hugli-Chinsurah (M + OG),Total,522,41,394,2130,104,2187,2,38,10,26,5454
+Hugli-Chinsurah (M + OG),Cooking inside house:,493,30,370,2107,102,2178,2,38,7,0,5327
+Hugli-Chinsurah (M + OG),Has Kitchen,124,14,172,902,50,1885,1,37,2,0,3187
+Hugli-Chinsurah (M + OG),Does not have kitchen,369,16,198,1205,52,293,1,1,5,0,2140
+Hugli-Chinsurah (M + OG),Cooking outside house:,29,11,24,23,2,9,0,0,3,0,101
+Hugli-Chinsurah (M + OG),Has Kitchen,23,8,5,10,1,4,0,0,1,0,52
+Hugli-Chinsurah (M + OG),Does not have kitchen,6,3,19,13,1,5,0,0,2,0,49
+Hugli-Chinsurah (M + OG),No Cooking,0,0,0,0,0,0,0,0,0,26,26
+Chandannagar (M Corp),Total,1474,123,70,3702,291,2534,3,64,84,44,8389
+Chandannagar (M Corp),Cooking inside house:,1409,117,69,3641,289,2527,3,64,84,0,8203
+Chandannagar (M Corp),Has Kitchen,600,36,27,1613,48,2183,1,53,53,0,4614
+Chandannagar (M Corp),Does not have kitchen,809,81,42,2028,241,344,2,11,31,0,3589
+Chandannagar (M Corp),Cooking outside house:,65,6,1,61,2,7,0,0,0,0,142
+Chandannagar (M Corp),Has Kitchen,24,1,1,24,1,4,0,0,0,0,55
+Chandannagar (M Corp),Does not have kitchen,41,5,0,37,1,3,0,0,0,0,87
+Chandannagar (M Corp),No Cooking,0,0,0,0,0,0,0,0,0,44,44
+Tarakeswar (M),Total,812,46,94,899,38,971,2,10,19,17,2908
+Tarakeswar (M),Cooking inside house:,666,41,75,832,35,957,2,10,17,0,2635
+Tarakeswar (M),Has Kitchen,179,13,19,125,5,697,1,4,0,0,1043
+Tarakeswar (M),Does not have kitchen,487,28,56,707,30,260,1,6,17,0,1592
+Tarakeswar (M),Cooking outside house:,146,5,19,67,3,14,0,0,2,0,256
+Tarakeswar (M),Has Kitchen,21,5,10,21,3,7,0,0,0,0,67
+Tarakeswar (M),Does not have kitchen,125,0,9,46,0,7,0,0,2,0,189
+Tarakeswar (M),No Cooking,0,0,0,0,0,0,0,0,0,17,17
+Arambag (M),Total,206,155,19,1,0,38,0,3,1,6,429
+Arambag (M),Cooking inside house:,196,17,19,1,0,38,0,3,1,0,275
+Arambag (M),Has Kitchen,167,9,15,0,0,30,0,3,1,0,225
+Arambag (M),Does not have kitchen,29,8,4,1,0,8,0,0,0,0,50
+Arambag (M),Cooking outside house:,10,138,0,0,0,0,0,0,0,0,148
+Arambag (M),Has Kitchen,2,3,0,0,0,0,0,0,0,0,5
+Arambag (M),Does not have kitchen,8,135,0,0,0,0,0,0,0,0,143
+Arambag (M),No Cooking,0,0,0,0,0,0,0,0,0,6,6
+Bhadreswar (M),Total,846,174,453,7044,188,4090,11,141,15,129,13091
+Bhadreswar (M),Cooking inside house:,808,152,359,6961,184,4070,11,141,15,0,12701
+Bhadreswar (M),Has Kitchen,315,75,117,2496,72,3612,6,130,8,0,6831
+Bhadreswar (M),Does not have kitchen,493,77,242,4465,112,458,5,11,7,0,5870
+Bhadreswar (M),Cooking outside house:,38,22,94,83,4,20,0,0,0,0,261
+Bhadreswar (M),Has Kitchen,8,15,15,36,2,10,0,0,0,0,86
+Bhadreswar (M),Does not have kitchen,30,7,79,47,2,10,0,0,0,0,175
+Bhadreswar (M),No Cooking,0,0,0,0,0,0,0,0,0,129,129
+Champdani (M),Total,471,150,768,12349,880,3366,16,37,14,228,18279
+Champdani (M),Cooking inside house:,424,112,755,11462,815,3320,15,37,14,0,16954
+Champdani (M),Has Kitchen,165,35,302,2848,146,2558,7,21,3,0,6085
+Champdani (M),Does not have kitchen,259,77,453,8614,669,762,8,16,11,0,10869
+Champdani (M),Cooking outside house:,47,38,13,887,65,46,1,0,0,0,1097
+Champdani (M),Has Kitchen,26,6,10,579,45,31,1,0,0,0,698
+Champdani (M),Does not have kitchen,21,32,3,308,20,15,0,0,0,0,399
+Champdani (M),No Cooking,0,0,0,0,0,0,0,0,0,228,228
+Baidyabati (M),Total,979,65,128,2492,249,2398,8,58,16,30,6423
+Baidyabati (M),Cooking inside house:,901,50,125,2365,245,2368,8,28,16,0,6106
+Baidyabati (M),Has Kitchen,273,30,60,805,128,1702,5,16,9,0,3028
+Baidyabati (M),Does not have kitchen,628,20,65,1560,117,666,3,12,7,0,3078
+Baidyabati (M),Cooking outside house:,78,15,3,127,4,30,0,30,0,0,287
+Baidyabati (M),Has Kitchen,45,5,0,35,1,18,0,28,0,0,132
+Baidyabati (M),Does not have kitchen,33,10,3,92,3,12,0,2,0,0,155
+Baidyabati (M),No Cooking,0,0,0,0,0,0,0,0,0,30,30
+Serampore (M),Total,636,165,517,2618,529,5538,9,120,86,56,10274
+Serampore (M),Cooking inside house:,592,147,498,2551,522,5505,9,120,85,0,10029
+Serampore (M),Has Kitchen,290,65,166,863,217,4831,6,95,29,0,6562
+Serampore (M),Does not have kitchen,302,82,332,1688,305,674,3,25,56,0,3467
+Serampore (M),Cooking outside house:,44,18,19,67,7,33,0,0,1,0,189
+Serampore (M),Has Kitchen,12,9,10,24,1,12,0,0,0,0,68
+Serampore (M),Does not have kitchen,32,9,9,43,6,21,0,0,1,0,121
+Serampore (M),No Cooking,0,0,0,0,0,0,0,0,0,56,56
+Rishra (M),Total,587,151,332,6195,1842,9255,20,56,69,181,18688
+Rishra (M),Cooking inside house:,572,145,323,6002,1751,9216,19,55,68,0,18151
+Rishra (M),Has Kitchen,294,93,104,2464,628,7857,13,52,26,0,11531
+Rishra (M),Does not have kitchen,278,52,219,3538,1123,1359,6,3,42,0,6620
+Rishra (M),Cooking outside house:,15,6,9,193,91,39,1,1,1,0,356
+Rishra (M),Has Kitchen,2,3,1,54,21,13,0,0,0,0,94
+Rishra (M),Does not have kitchen,13,3,8,139,70,26,1,1,1,0,262
+Rishra (M),No Cooking,0,0,0,0,0,0,0,0,0,181,181
+Konnagar (M),Total,45,16,11,483,75,294,0,0,0,2,926
+Konnagar (M),Cooking inside house:,41,7,11,476,74,291,0,0,0,0,900
+Konnagar (M),Has Kitchen,2,1,0,111,6,125,0,0,0,0,245
+Konnagar (M),Does not have kitchen,39,6,11,365,68,166,0,0,0,0,655
+Konnagar (M),Cooking outside house:,4,9,0,7,1,3,0,0,0,0,24
+Konnagar (M),Has Kitchen,1,7,0,7,0,3,0,0,0,0,18
+Konnagar (M),Does not have kitchen,3,2,0,0,1,0,0,0,0,0,6
+Konnagar (M),No Cooking,0,0,0,0,0,0,0,0,0,2,2
+Dankuni (M),Total,3444,149,353,2510,606,4607,19,68,70,65,11891
+Dankuni (M),Cooking inside house:,3235,128,338,2451,598,4570,18,68,67,0,11473
+Dankuni (M),Has Kitchen,1503,65,79,1109,171,3620,11,62,29,0,6649
+Dankuni (M),Does not have kitchen,1732,63,259,1342,427,950,7,6,38,0,4824
+Dankuni (M),Cooking outside house:,209,21,15,59,8,37,1,0,3,0,353
+Dankuni (M),Has Kitchen,140,20,13,43,4,17,1,0,1,0,239
+Dankuni (M),Does not have kitchen,69,1,2,16,4,20,0,0,2,0,114
+Dankuni (M),No Cooking,0,0,0,0,0,0,0,0,0,65,65
+Uttarpara Kotrung (M),Total,456,48,153,2610,645,6950,3,12,16,68,10961
+Uttarpara Kotrung (M),Cooking inside house:,440,40,152,2531,628,6908,3,12,16,0,10730
+Uttarpara Kotrung (M),Has Kitchen,221,34,50,1142,335,5972,3,8,5,0,7770
+Uttarpara Kotrung (M),Does not have kitchen,219,6,102,1389,293,936,0,4,11,0,2960
+Uttarpara Kotrung (M),Cooking outside house:,16,8,1,79,17,42,0,0,0,0,163
+Uttarpara Kotrung (M),Has Kitchen,8,5,1,14,15,34,0,0,0,0,77
+Uttarpara Kotrung (M),Does not have kitchen,8,3,0,65,2,8,0,0,0,0,86
+Uttarpara Kotrung (M),No Cooking,0,0,0,0,0,0,0,0,0,68,68
+Bankura (M),Total,697,144,123,6963,76,4375,5,13,119,46,12561
+Bankura (M),Cooking inside house:,481,74,114,6233,76,4323,4,12,103,0,11420
+Bankura (M),Has Kitchen,121,40,50,1725,42,3801,3,9,14,0,5805
+Bankura (M),Does not have kitchen,360,34,64,4508,34,522,1,3,89,0,5615
+Bankura (M),Cooking outside house:,216,70,9,730,0,52,1,1,16,0,1095
+Bankura (M),Has Kitchen,150,22,3,346,0,36,0,0,7,0,564
+Bankura (M),Does not have kitchen,66,48,6,384,0,16,1,1,9,0,531
+Bankura (M),No Cooking,0,0,0,0,0,0,0,0,0,46,46
+Sonamukhi (M),Total,1529,25,15,582,8,711,2,1,3,45,2921
+Sonamukhi (M),Cooking inside house:,1476,22,15,560,8,705,2,1,3,0,2792
+Sonamukhi (M),Has Kitchen,511,17,9,335,5,659,2,1,2,0,1541
+Sonamukhi (M),Does not have kitchen,965,5,6,225,3,46,0,0,1,0,1251
+Sonamukhi (M),Cooking outside house:,53,3,0,22,0,6,0,0,0,0,84
+Sonamukhi (M),Has Kitchen,17,1,0,18,0,4,0,0,0,0,40
+Sonamukhi (M),Does not have kitchen,36,2,0,4,0,2,0,0,0,0,44
+Sonamukhi (M),No Cooking,0,0,0,0,0,0,0,0,0,45,45
+Bishnupur (M),Total,1752,39,162,821,16,1499,1,5,115,24,4434
+Bishnupur (M),Cooking inside house:,1264,30,154,719,16,1482,1,5,86,0,3757
+Bishnupur (M),Has Kitchen,311,7,50,257,7,1287,0,5,40,0,1964
+Bishnupur (M),Does not have kitchen,953,23,104,462,9,195,1,0,46,0,1793
+Bishnupur (M),Cooking outside house:,488,9,8,102,0,17,0,0,29,0,653
+Bishnupur (M),Has Kitchen,146,2,7,48,0,10,0,0,8,0,221
+Bishnupur (M),Does not have kitchen,342,7,1,54,0,7,0,0,21,0,432
+Bishnupur (M),No Cooking,0,0,0,0,0,0,0,0,0,24,24
+Jhalda (M),Total,524,15,29,1470,8,524,1,0,22,9,2602
+Jhalda (M),Cooking inside house:,504,10,26,1438,8,522,1,0,20,0,2529
+Jhalda (M),Has Kitchen,84,4,4,298,4,455,1,0,20,0,870
+Jhalda (M),Does not have kitchen,420,6,22,1140,4,67,0,0,0,0,1659
+Jhalda (M),Cooking outside house:,20,5,3,32,0,2,0,0,2,0,64
+Jhalda (M),Has Kitchen,14,2,3,27,0,1,0,0,2,0,49
+Jhalda (M),Does not have kitchen,6,3,0,5,0,1,0,0,0,0,15
+Jhalda (M),No Cooking,0,0,0,0,0,0,0,0,0,9,9
+Puruliya (M),Total,834,199,237,5800,36,2088,10,18,884,27,10133
+Puruliya (M),Cooking inside house:,758,150,219,5157,32,1972,9,18,805,0,9120
+Puruliya (M),Has Kitchen,181,68,42,1273,15,1782,1,15,339,0,3716
+Puruliya (M),Does not have kitchen,577,82,177,3884,17,190,8,3,466,0,5404
+Puruliya (M),Cooking outside house:,76,49,18,643,4,116,1,0,79,0,986
+Puruliya (M),Has Kitchen,36,9,13,394,3,107,0,0,43,0,605
+Puruliya (M),Does not have kitchen,40,40,5,249,1,9,1,0,36,0,381
+Puruliya (M),No Cooking,0,0,0,0,0,0,0,0,0,27,27
+Bally (M),Total,555,134,288,1757,1181,10126,6,32,63,93,14235
+Bally (M),Cooking inside house:,488,114,263,1696,1156,10056,6,32,63,0,13874
+Bally (M),Has Kitchen,127,85,64,434,343,8017,4,27,60,0,9161
+Bally (M),Does not have kitchen,361,29,199,1262,813,2039,2,5,3,0,4713
+Bally (M),Cooking outside house:,67,20,25,61,25,70,0,0,0,0,268
+Bally (M),Has Kitchen,28,5,22,26,12,49,0,0,0,0,142
+Bally (M),Does not have kitchen,39,15,3,35,13,21,0,0,0,0,126
+Bally (M),No Cooking,0,0,0,0,0,0,0,0,0,93,93
+Haora (M Corp),Total,1834,211,231,4667,2918,8437,12,66,62,134,18572
+Haora (M Corp),Cooking inside house:,1534,172,206,4352,2729,8225,9,65,53,0,17345
+Haora (M Corp),Has Kitchen,340,88,39,1135,845,5674,4,50,3,0,8178
+Haora (M Corp),Does not have kitchen,1194,84,167,3217,1884,2551,5,15,50,0,9167
+Haora (M Corp),Cooking outside house:,300,39,25,315,189,212,3,1,9,0,1093
+Haora (M Corp),Has Kitchen,75,16,21,144,115,112,0,0,5,0,488
+Haora (M Corp),Does not have kitchen,225,23,4,171,74,100,3,1,4,0,605
+Haora (M Corp),No Cooking,0,0,0,0,0,0,0,0,0,134,134
+Uluberia (M + OG),Total,11375,699,215,10504,694,5758,11,137,789,114,30296
+Uluberia (M + OG),Cooking inside house:,10189,501,161,9642,647,5590,8,136,491,0,27365
+Uluberia (M + OG),Has Kitchen,4491,233,97,2961,211,4210,5,108,144,0,12460
+Uluberia (M + OG),Does not have kitchen,5698,268,64,6681,436,1380,3,28,347,0,14905
+Uluberia (M + OG),Cooking outside house:,1186,198,54,862,47,168,3,1,298,0,2817
+Uluberia (M + OG),Has Kitchen,661,90,38,413,37,146,2,1,68,0,1456
+Uluberia (M + OG),Does not have kitchen,525,108,16,449,10,22,1,0,230,0,1361
+Uluberia (M + OG),No Cooking,0,0,0,0,0,0,0,0,0,114,114
+Kolkata (M Corp.),Total,15087,2105,1308,18278,102074,141863,273,1975,553,2042,285558
+Kolkata (M Corp.),Cooking inside house:,14411,1961,1262,17601,99449,140912,269,1962,546,0,278373
+Kolkata (M Corp.),Has Kitchen,7049,998,530,6017,38711,116092,197,1601,281,0,171476
+Kolkata (M Corp.),Does not have kitchen,7362,963,732,11584,60738,24820,72,361,265,0,106897
+Kolkata (M Corp.),Cooking outside house:,676,144,46,677,2625,951,4,13,7,0,5143
+Kolkata (M Corp.),Has Kitchen,230,109,26,233,977,509,3,8,1,0,2096
+Kolkata (M Corp.),Does not have kitchen,446,35,20,444,1648,442,1,5,6,0,3047
+Kolkata (M Corp.),No Cooking,0,0,0,0,0,0,0,0,0,2042,2042
+Maheshtala (M),Total,7471,318,730,15147,5372,15898,7,103,212,143,45401
+Maheshtala (M),Cooking inside house:,6952,218,700,14303,5166,15623,6,103,211,0,43282
+Maheshtala (M),Has Kitchen,3057,104,265,5791,1423,12598,4,86,59,0,23387
+Maheshtala (M),Does not have kitchen,3895,114,435,8512,3743,3025,2,17,152,0,19895
+Maheshtala (M),Cooking outside house:,519,100,30,844,206,275,1,0,1,0,1976
+Maheshtala (M),Has Kitchen,252,52,17,375,108,191,0,0,0,0,995
+Maheshtala (M),Does not have kitchen,267,48,13,469,98,84,1,0,1,0,981
+Maheshtala (M),No Cooking,0,0,0,0,0,0,0,0,0,143,143
+Budge Budge (M),Total,10,8,101,196,12,54,0,0,0,1,382
+Budge Budge (M),Cooking inside house:,9,8,101,157,5,50,0,0,0,0,330
+Budge Budge (M),Has Kitchen,0,0,3,2,0,36,0,0,0,0,41
+Budge Budge (M),Does not have kitchen,9,8,98,155,5,14,0,0,0,0,289
+Budge Budge (M),Cooking outside house:,1,0,0,39,7,4,0,0,0,0,51
+Budge Budge (M),Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+Budge Budge (M),Does not have kitchen,1,0,0,39,7,4,0,0,0,0,51
+Budge Budge (M),No Cooking,0,0,0,0,0,0,0,0,0,1,1
+Pujali (M),Total,3829,121,9,598,71,751,4,28,40,32,5483
+Pujali (M),Cooking inside house:,3363,112,6,551,69,724,4,27,36,0,4892
+Pujali (M),Has Kitchen,1817,34,1,247,29,562,2,17,10,0,2719
+Pujali (M),Does not have kitchen,1546,78,5,304,40,162,2,10,26,0,2173
+Pujali (M),Cooking outside house:,466,9,3,47,2,27,0,1,4,0,559
+Pujali (M),Has Kitchen,348,5,3,34,1,22,0,1,2,0,416
+Pujali (M),Does not have kitchen,118,4,0,13,1,5,0,0,2,0,143
+Pujali (M),No Cooking,0,0,0,0,0,0,0,0,0,32,32
+Rajpur Sonarpur (M),Total,1857,71,56,1447,1129,3127,4,78,1,25,7795
+Rajpur Sonarpur (M),Cooking inside house:,1730,65,51,1410,1109,3086,3,78,1,0,7533
+Rajpur Sonarpur (M),Has Kitchen,660,40,13,419,318,2284,2,76,1,0,3813
+Rajpur Sonarpur (M),Does not have kitchen,1070,25,38,991,791,802,1,2,0,0,3720
+Rajpur Sonarpur (M),Cooking outside house:,127,6,5,37,20,41,1,0,0,0,237
+Rajpur Sonarpur (M),Has Kitchen,47,5,4,19,14,25,1,0,0,0,115
+Rajpur Sonarpur (M),Does not have kitchen,80,1,1,18,6,16,0,0,0,0,122
+Rajpur Sonarpur (M),No Cooking,0,0,0,0,0,0,0,0,0,25,25
+Baruipur (M),Total,1652,34,29,554,329,5993,3,3,8,46,8651
+Baruipur (M),Cooking inside house:,1494,33,29,543,319,5964,3,3,8,0,8396
+Baruipur (M),Has Kitchen,838,18,15,253,160,5566,3,3,7,0,6863
+Baruipur (M),Does not have kitchen,656,15,14,290,159,398,0,0,1,0,1533
+Baruipur (M),Cooking outside house:,158,1,0,11,10,29,0,0,0,0,209
+Baruipur (M),Has Kitchen,71,1,0,2,3,17,0,0,0,0,94
+Baruipur (M),Does not have kitchen,87,0,0,9,7,12,0,0,0,0,115
+Baruipur (M),No Cooking,0,0,0,0,0,0,0,0,0,46,46
+Diamond Harbour (M),Total,1250,129,19,103,64,333,1,4,12,11,1926
+Diamond Harbour (M),Cooking inside house:,1043,96,12,92,62,312,0,3,6,0,1626
+Diamond Harbour (M),Has Kitchen,355,57,3,20,3,180,0,2,1,0,621
+Diamond Harbour (M),Does not have kitchen,688,39,9,72,59,132,0,1,5,0,1005
+Diamond Harbour (M),Cooking outside house:,207,33,7,11,2,21,1,1,6,0,289
+Diamond Harbour (M),Has Kitchen,108,15,7,6,2,17,1,0,3,0,159
+Diamond Harbour (M),Does not have kitchen,99,18,0,5,0,4,0,1,3,0,130
+Diamond Harbour (M),No Cooking,0,0,0,0,0,0,0,0,0,11,11
+Jaynagar Mazilpur (M),Total,2200,66,55,224,126,1772,3,5,229,18,4698
+Jaynagar Mazilpur (M),Cooking inside house:,2107,63,53,216,120,1762,3,5,120,0,4449
+Jaynagar Mazilpur (M),Has Kitchen,955,25,18,90,57,1514,1,5,17,0,2682
+Jaynagar Mazilpur (M),Does not have kitchen,1152,38,35,126,63,248,2,0,103,0,1767
+Jaynagar Mazilpur (M),Cooking outside house:,93,3,2,8,6,10,0,0,109,0,231
+Jaynagar Mazilpur (M),Has Kitchen,53,2,2,4,5,6,0,0,2,0,74
+Jaynagar Mazilpur (M),Does not have kitchen,40,1,0,4,1,4,0,0,107,0,157
+Jaynagar Mazilpur (M),No Cooking,0,0,0,0,0,0,0,0,0,18,18
+Ramjibanpur (M),Total,1914,670,729,221,2,424,0,2,106,13,4081
+Ramjibanpur (M),Cooking inside house:,1375,521,550,196,2,402,0,2,80,0,3128
+Ramjibanpur (M),Has Kitchen,825,350,321,82,2,314,0,2,35,0,1931
+Ramjibanpur (M),Does not have kitchen,550,171,229,114,0,88,0,0,45,0,1197
+Ramjibanpur (M),Cooking outside house:,539,149,179,25,0,22,0,0,26,0,940
+Ramjibanpur (M),Has Kitchen,290,94,68,18,0,21,0,0,12,0,503
+Ramjibanpur (M),Does not have kitchen,249,55,111,7,0,1,0,0,14,0,437
+Ramjibanpur (M),No Cooking,0,0,0,0,0,0,0,0,0,13,13
+Kshirpai (M),Total,833,159,213,5,7,415,0,2,8,3,1645
+Kshirpai (M),Cooking inside house:,610,38,192,5,7,408,0,2,8,0,1270
+Kshirpai (M),Has Kitchen,329,10,109,4,3,376,0,2,1,0,834
+Kshirpai (M),Does not have kitchen,281,28,83,1,4,32,0,0,7,0,436
+Kshirpai (M),Cooking outside house:,223,121,21,0,0,7,0,0,0,0,372
+Kshirpai (M),Has Kitchen,160,102,16,0,0,7,0,0,0,0,285
+Kshirpai (M),Does not have kitchen,63,19,5,0,0,0,0,0,0,0,87
+Kshirpai (M),No Cooking,0,0,0,0,0,0,0,0,0,3,3
+Chandrakona (M),Total,967,62,41,11,1,111,0,0,105,1,1299
+Chandrakona (M),Cooking inside house:,822,61,15,11,1,104,0,0,15,0,1029
+Chandrakona (M),Has Kitchen,239,24,10,2,1,77,0,0,6,0,359
+Chandrakona (M),Does not have kitchen,583,37,5,9,0,27,0,0,9,0,670
+Chandrakona (M),Cooking outside house:,145,1,26,0,0,7,0,0,90,0,269
+Chandrakona (M),Has Kitchen,61,0,6,0,0,5,0,0,4,0,76
+Chandrakona (M),Does not have kitchen,84,1,20,0,0,2,0,0,86,0,193
+Chandrakona (M),No Cooking,0,0,0,0,0,0,0,0,0,1,1
+Kharar (M),Total,282,166,459,12,5,230,0,0,4,0,1158
+Kharar (M),Cooking inside house:,221,61,256,9,2,204,0,0,2,0,755
+Kharar (M),Has Kitchen,174,41,188,8,2,190,0,0,0,0,603
+Kharar (M),Does not have kitchen,47,20,68,1,0,14,0,0,2,0,152
+Kharar (M),Cooking outside house:,61,105,203,3,3,26,0,0,2,0,403
+Kharar (M),Has Kitchen,20,12,76,0,1,22,0,0,0,0,131
+Kharar (M),Does not have kitchen,41,93,127,3,2,4,0,0,2,0,272
+Kharar (M),No Cooking,0,0,0,0,0,0,0,0,0,0,0
+Ghatal (M),Total,1069,489,356,25,5,577,1,2,108,5,2637
+Ghatal (M),Cooking inside house:,910,405,311,8,4,565,1,2,77,0,2283
+Ghatal (M),Has Kitchen,551,153,137,5,1,499,1,2,5,0,1354
+Ghatal (M),Does not have kitchen,359,252,174,3,3,66,0,0,72,0,929
+Ghatal (M),Cooking outside house:,159,84,45,17,1,12,0,0,31,0,349
+Ghatal (M),Has Kitchen,139,27,45,4,1,10,0,0,26,0,252
+Ghatal (M),Does not have kitchen,20,57,0,13,0,2,0,0,5,0,97
+Ghatal (M),No Cooking,0,0,0,0,0,0,0,0,0,5,5
+Medinipur (M),Total,5320,125,295,2078,67,3819,0,102,8,38,11852
+Medinipur (M),Cooking inside house:,4450,110,262,1957,65,3775,0,101,6,0,10726
+Medinipur (M),Has Kitchen,1281,56,89,734,31,3317,0,94,2,0,5604
+Medinipur (M),Does not have kitchen,3169,54,173,1223,34,458,0,7,4,0,5122
+Medinipur (M),Cooking outside house:,870,15,33,121,2,44,0,1,2,0,1088
+Medinipur (M),Has Kitchen,353,7,20,55,1,35,0,0,2,0,473
+Medinipur (M),Does not have kitchen,517,8,13,66,1,9,0,1,0,0,615
+Medinipur (M),No Cooking,0,0,0,0,0,0,0,0,0,38,38
+Jhargram (M),Total,2906,40,16,140,81,3145,0,7,6,17,6358
+Jhargram (M),Cooking inside house:,2378,34,13,135,80,3110,0,7,5,0,5762
+Jhargram (M),Has Kitchen,1418,27,5,94,59,2928,0,6,0,0,4537
+Jhargram (M),Does not have kitchen,960,7,8,41,21,182,0,1,5,0,1225
+Jhargram (M),Cooking outside house:,528,6,3,5,1,35,0,0,1,0,579
+Jhargram (M),Has Kitchen,253,5,3,4,0,28,0,0,1,0,294
+Jhargram (M),Does not have kitchen,275,1,0,1,1,7,0,0,0,0,285
+Jhargram (M),No Cooking,0,0,0,0,0,0,0,0,0,17,17
+Kharagpur (M),Total,5346,156,389,1284,124,3209,7,42,63,31,10651
+Kharagpur (M),Cooking inside house:,3971,129,339,1187,113,3134,7,38,60,0,8978
+Kharagpur (M),Has Kitchen,1395,62,91,581,61,2735,4,37,17,0,4983
+Kharagpur (M),Does not have kitchen,2576,67,248,606,52,399,3,1,43,0,3995
+Kharagpur (M),Cooking outside house:,1375,27,50,97,11,75,0,4,3,0,1642
+Kharagpur (M),Has Kitchen,200,16,10,45,2,32,0,4,2,0,311
+Kharagpur (M),Does not have kitchen,1175,11,40,52,9,43,0,0,1,0,1331
+Kharagpur (M),No Cooking,0,0,0,0,0,0,0,0,0,31,31
+Panskura (M),Total,3730,930,764,48,9,658,2,62,330,10,6543
+Panskura (M),Cooking inside house:,2727,497,529,33,7,644,2,61,239,0,4739
+Panskura (M),Has Kitchen,1865,223,383,23,5,614,2,55,39,0,3209
+Panskura (M),Does not have kitchen,862,274,146,10,2,30,0,6,200,0,1530
+Panskura (M),Cooking outside house:,1003,433,235,15,2,14,0,1,91,0,1794
+Panskura (M),Has Kitchen,702,188,216,5,1,10,0,1,31,0,1154
+Panskura (M),Does not have kitchen,301,245,19,10,1,4,0,0,60,0,640
+Panskura (M),No Cooking,0,0,0,0,0,0,0,0,0,10,10
+Tamluk (M),Total,2700,472,334,107,57,2064,5,52,38,61,5890
+Tamluk (M),Cooking inside house:,2378,308,272,94,56,2051,5,49,28,0,5241
+Tamluk (M),Has Kitchen,1712,209,175,55,41,1927,4,34,18,0,4175
+Tamluk (M),Does not have kitchen,666,99,97,39,15,124,1,15,10,0,1066
+Tamluk (M),Cooking outside house:,322,164,62,13,1,13,0,3,10,0,588
+Tamluk (M),Has Kitchen,197,145,55,13,1,10,0,2,10,0,433
+Tamluk (M),Does not have kitchen,125,19,7,0,0,3,0,1,0,0,155
+Tamluk (M),No Cooking,0,0,0,0,0,0,0,0,0,61,61
+Haldia (M),Total,3702,1140,1555,792,188,2013,12,32,152,36,9622
+Haldia (M),Cooking inside house:,3206,882,1286,747,184,1945,12,32,131,0,8425
+Haldia (M),Has Kitchen,2743,626,1061,422,68,1623,8,30,48,0,6629
+Haldia (M),Does not have kitchen,463,256,225,325,116,322,4,2,83,0,1796
+Haldia (M),Cooking outside house:,496,258,269,45,4,68,0,0,21,0,1161
+Haldia (M),Has Kitchen,384,165,245,37,3,65,0,0,18,0,917
+Haldia (M),Does not have kitchen,112,93,24,8,1,3,0,0,3,0,244
+Haldia (M),No Cooking,0,0,0,0,0,0,0,0,0,36,36
+Egra (M),Total,1954,1584,281,67,22,975,0,9,9,19,4920
+Egra (M),Cooking inside house:,1870,1409,260,66,20,965,0,9,9,0,4608
+Egra (M),Has Kitchen,1631,964,209,59,15,912,0,9,8,0,3807
+Egra (M),Does not have kitchen,239,445,51,7,5,53,0,0,1,0,801
+Egra (M),Cooking outside house:,84,175,21,1,2,10,0,0,0,0,293
+Egra (M),Has Kitchen,52,90,15,0,1,5,0,0,0,0,163
+Egra (M),Does not have kitchen,32,85,6,1,1,5,0,0,0,0,130
+Egra (M),No Cooking,0,0,0,0,0,0,0,0,0,19,19
+Contai (M),Total,2681,712,448,77,113,1792,1,30,248,86,6188
+Contai (M),Cooking inside house:,2191,450,252,70,105,1758,1,27,231,0,5085
+Contai (M),Has Kitchen,1569,316,218,41,39,1665,1,27,163,0,4039
+Contai (M),Does not have kitchen,622,134,34,29,66,93,0,0,68,0,1046
+Contai (M),Cooking outside house:,490,262,196,7,8,34,0,3,17,0,1017
+Contai (M),Has Kitchen,376,155,181,3,1,28,0,3,14,0,761
+Contai (M),Does not have kitchen,114,107,15,4,7,6,0,0,3,0,256
+Contai (M),No Cooking,0,0,0,0,0,0,0,0,0,86,86
+,,,,,,,,,,,,86
